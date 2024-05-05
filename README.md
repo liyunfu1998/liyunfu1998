@@ -1,13 +1,36 @@
-<h1>Hi 👋, I'm Li Yunfu.</h1>
-<p>A passionate frontend developer from China</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=liyunfu&show_icons=true&locale=en" alt="liyunfu" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liyunfu&" alt="liyunfu" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyunfu&show_icons=true&locale=en&layout=compact" alt="liyunfu" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liyunfu" alt="liyunfu" /></a></p>
+<div style="overflow:hidden" class="liyunfu1998">
+
+<a href="https://github.com/liyunfu1998/liyunfu1998" style="max-width:50%;" >
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=liyunfu1998&count_private=true&theme=radical" />
+</a>
+
+
+</div>
+
+<br/>
+
+# Hi there 👋, I'm Li Yunfu!
+
+## 🚀 About Me
+**Full-Stack Engineer, Next.js Artist, React Native Worker.**
+
+**全栈工程师，Next.js 手艺人，React Native 车间工**
+
+I work on Next.js and Node.js projects, sharing knowledge in these areas.
+
+## 🛠 Skills
+- **Front-End:** `React`, `React Native` and `Next.js`.
+- **Back-End:** `Node.js`, `Express` and `Next.js`.
+- **Databases：** `MongoDB`、`Prisma` and `Redis`.
+
+<a href="https://github.com/liyunfu1998/liyunfu1998" style="max-width:50%;" >
+  <img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=liyunfu1998&layout=compact&langs_count=8">
+</a>
+
+
+## 📫 Contact Me
+- **Email:** [liyunfu1998@qq.com](mailto:liyunfu1998@qq.com)
+- **Github:** [Github](https://github.com/liyunfu1998)  
+- **掘金:** [狠狠赚它一笔](https://juejin.cn/user/2277843824292183)
+---
+
