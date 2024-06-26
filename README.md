@@ -12,9 +12,9 @@
 # Hi there 👋, I'm Li Yunfu!
 
 ## 🚀 About Me
-**Full-Stack Engineer, Next.js Artist, React Native Worker.**
+**Full-Stack Engineer, Next.js Operator, React Native Worker.**
 
-**全栈工程师，Next.js 手艺人，React Native 车间工**
+**全栈工程师，Next.js 操作员，React Native 车间工**
 
 I work on Next.js and Node.js projects, sharing knowledge in these areas.
 
@@ -31,6 +31,7 @@ I work on Next.js and Node.js projects, sharing knowledge in these areas.
 ## 📫 Contact Me
 - **Email:** [liyunfu1998@qq.com](mailto:liyunfu1998@qq.com)
 - **Github:** [Github](https://github.com/liyunfu1998)  
-- **掘金:** [狠狠赚它一笔](https://juejin.cn/user/2277843824292183)
+- **掘金:** [26x](https://juejin.cn/user/2277843824292183)
+- **即刻:** 26x.dev
 ---
 
