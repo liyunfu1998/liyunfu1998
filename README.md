@@ -35,6 +35,5 @@
 - **Email:** [liyunfu1998@qq.com](mailto:liyunfu1998@qq.com)
 - **Github:** [Github](https://github.com/liyunfu1998)  
 - **掘金:** [26x](https://juejin.cn/user/2277843824292183)
-- **即刻:** 26x.dev
 ---
 
