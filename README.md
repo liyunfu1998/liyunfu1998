@@ -7,7 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyunfu1998&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
 ###
 
 <div align="left">
@@ -26,14 +25,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-
 ###
 
 <img src="https://raw.githubusercontent.com/liyunfu1998/liyunfu1998/output/snake.svg" alt="Snake animation" />
 
 ###
 
-## 📫 Contact Me
+### 📫 Contact Me
 - **Email:** [liyunfu1998@qq.com](mailto:liyunfu1998@qq.com)
 - **Github:** [Github](https://github.com/liyunfu1998)  
 - **掘金:** [26x](https://juejin.cn/user/2277843824292183)
